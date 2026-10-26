@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "SR: Saliency Regularization for Self-Training with Partial Annotations"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Shouwen
+  - family-names: Wan
+    given-names: Qian
+  - family-names: Xiang
+    given-names: Xiang
+  - family-names: Zeng
+    given-names: Zhigang
+repository-code: "https://github.com/wangshouwen/SR"
+url: "https://wangshouwen.github.io/SR/"
+license: Apache-2.0
+preferred-citation:
+  type: conference-paper
+  title: "Saliency Regularization for Self-Training with Partial Annotations"
+  authors:
+    - family-names: Wang
+      given-names: Shouwen
+    - family-names: Wan
+      given-names: Qian
+    - family-names: Xiang
+      given-names: Xiang
+    - family-names: Zeng
+      given-names: Zhigang
+  collection-title: "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)"
+  conference:
+    name: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+  start: 1611
+  end: 1620
+  year: 2023
+  url: "https://openaccess.thecvf.com/content/ICCV2023/html/Wang_Saliency_Regularization_for_Self-Training_with_Partial_Annotations_ICCV_2023_paper.html"

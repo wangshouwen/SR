@@ -1,0 +1,32 @@
+# ---- must never be published: leaks server hostnames, usernames and paths ----
+.idea/
+.vscode/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- experiment outputs ----
+log/
+logs/
+result/
+results/
+checkpoint/
+checkpoints/
+output/
+outputs/
+runs/
+*.pth
+*.pth.tar
+*.ckpt
+
+# ---- datasets are downloaded by the user, never committed ----
+data/
+
+# ---- misc ----
+.DS_Store
+*.swp
